@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+
+# Environment variables
+.env*
+
+# Secrets
+*.json
+
+# Databases
+*.db
+*.sqlite3
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
